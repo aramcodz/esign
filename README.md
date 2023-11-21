@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/jfcote87/esign?status.svg)](https://godoc.org/github.com/jfcote87/esign)
 
-** NOTE: Forked From https://github.com/jfcote87/esign original by https://github.com/jfcote87 **
+**NOTE: Forked From https://github.com/jfcote87/esign original by https://github.com/jfcote87**
 
 esign provides Go packages for executing and consuming DocuSign's eSignature, Admin, Monitor, Rooms 
 and Click RestApis.  The gen-esign module created the apis' definitions using lastest published swagger definitions
